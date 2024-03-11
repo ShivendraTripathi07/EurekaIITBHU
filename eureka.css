@@ -455,7 +455,7 @@ a:focus {
 .main__crossing-container {
   width: 88%;
   background-color: hsl(270, 50%, 11%);
-  background-image: linear-gradient(120deg, hsla(26, 80%, 50%, .5), 10%, hsl(270, 50%, 11%) 60%), url("https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=100&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=600");
+  background-image: linear-gradient(120deg, hsla(26, 80%, 50%, .5), 10%, hsl(270, 50%, 11%) 60%), url("https://as1.ftcdn.net/v2/jpg/02/51/08/62/1000_F_251086299_JR4pWoo6yziRhSLZmN6R2IJhot1W8E4H.jpg");
   box-shadow: 0 6px 16px 0 hsla(270, 30%, 3%, .4);
   border-radius: 8px;
   padding: 2rem 3.6rem;
